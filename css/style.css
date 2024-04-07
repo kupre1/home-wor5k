@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: black;
+  background-color: rgb(28, 24, 24);
   color: white;
   font-family: poppins;
 }
@@ -250,6 +250,13 @@ body {
 
 .second-right4 {
   margin-bottom: 60px;
+  background-color: black;
+  border-radius: 16px;
+}
+
+.second-right5 {
+  background-color: black;
+  border-radius: 16px;
 }
 
 .third-container1 {
@@ -261,6 +268,11 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.second-left {
+  background-color: black;
+  border-radius: 16px;
 }
 
 .third-container {
