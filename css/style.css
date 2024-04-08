@@ -263,7 +263,7 @@ body {
   width: 1160px;
   height: 535px;
   margin: auto;
-  background-image: url(/photos/fundo.png);
+  background-image: url(../photos/fundo.png);
   background-size: cover;
   display: flex;
   justify-content: space-between;
